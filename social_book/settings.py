@@ -136,7 +136,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 CSRF_TRUSTED_ORIGINS = [
     'https://socialbook-production.up.railway.app/',
-    'https://web-production-4ab8.up.railway.app'
+    'https://web-production-4ab8.up.railway.app',
+    'https://ripe-crack-production.up.railway.app/'
 ]
 
 CORS_ORIGIN_WHITELIST = [
