@@ -138,3 +138,8 @@ CSRF_TRUSTED_ORIGINS = [
     'https://socialbook-production.up.railway.app/',
     'https://web-production-4ab8.up.railway.app'
 ]
+
+CORS_ORIGIN_WHITELIST = [
+    'https://socialbook-production.up.railway.app/',
+    'https://web-production-4ab8.up.railway.app'
+]
